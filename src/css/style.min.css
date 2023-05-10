@@ -1,0 +1,27 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.card {
+  position: relative;
+  padding: 15px 15px;
+  width: 350px;
+  height: 400px;
+  background: rgb(19, 112, 112);
+  background: linear-gradient(317deg, #318181 0%, rgb(16, 134, 137) 33%, rgb(0, 212, 255) 100%);
+  border-radius: 15%;
+}
+.card_block {
+  position: absolute;
+  display: block;
+  width: 70px;
+}
+.card_block_img {
+  display: block;
+  width: 50px;
+}
+.card_title {
+  margin-top: 100px;
+}/*# sourceMappingURL=style.min.css.map */
